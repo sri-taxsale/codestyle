@@ -2,9 +2,9 @@
 ---
 `.eslintrc` requires the following NPM package(s):
 
-* **eslint**
+* **eslint**  
   `npm install -g eslint`
-* **babel-eslint**
+* **babel-eslint**  
   `npm install -g babel-eslint`
 * **eslint-plugin-react**  
   `npm install -g eslint-plugin-react`
