@@ -15,9 +15,7 @@
 `.jscsrc` requires the following NPM package(s):
 
 - **jscs**  
-```console
-npm install -g jscs
-```
+  `npm install -g jscs`
 
 
 .jshintrc
