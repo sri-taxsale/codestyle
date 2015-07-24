@@ -1,5 +1,5 @@
 # SRI Code Style Guide
-Adapted on 8/1/2015 from Airbnb's [ Style Guide](https://github.com/AirBnB/javascript).
+*Adapted on 8/1/2015 from [Airbnb's Style Guide](https://github.com/AirBnB/javascript).*
 
 
 ## Table of Contents
